@@ -22,7 +22,7 @@ class Solution:
             output += str(carry)
         return output[::-1]
 
-        #### 2nd Approach ####
+     #### 2nd Approach ####
         decimal_a = int(a, 2)
         decimal_b = int(b, 2)
         summation = decimal_a + decimal_b
