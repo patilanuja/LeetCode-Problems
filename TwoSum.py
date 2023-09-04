@@ -13,10 +13,9 @@
     #             right += 1
     #     return res
 
-class Solution:
 ################################################# Hash Table Approach ##########################################################
-########## Time Complexity: O(n) ########## Space Complexity: O(n) ##########
-                    
+########### Time Complexity: O(n) ########## Space Complexity: O(n) ###########
+class Solution:                   
     def twoSum(self, nums: List[int], target: int) -> List[int]:
        mapped = {}
        for i in range(len(nums)):
