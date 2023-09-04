@@ -6,6 +6,8 @@
 
 
 ################################################# Two Pointer Approach ##########################################################
+
+########## Time Complexity: O(n+m) ########## Space Complexity: O(1) ##########
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
         dummy = ListNode()
