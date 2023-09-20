@@ -1,6 +1,5 @@
 #################################################  Two Pointer Approach ##########################################################
 ########## Time Complexity: O(n) ########## Space Complexity: O(1) ##########
-
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
 
