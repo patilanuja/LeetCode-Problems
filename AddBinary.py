@@ -32,3 +32,4 @@ class Solution:
         summation = decimal_a + decimal_b
         dec_to_binary = bin(summation)[2:]
         return (dec_to_binary)
+
