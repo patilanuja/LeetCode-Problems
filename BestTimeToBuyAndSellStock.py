@@ -21,6 +21,7 @@
 
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
+                
         left, right, max_profit = 0, 1, 0
 
         while right < len(prices):

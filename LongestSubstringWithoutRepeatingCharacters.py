@@ -1,5 +1,5 @@
 ################################################# Sliding Window ##########################################################
-########## Time Complexity: O(n) ########## Space Complexity: O(m) where m= size of the charset #########
+########## Time Complexity: O(n) ########## Space Complexity: O(m) where m = size of the charset #########
 
 
 class Solution:
