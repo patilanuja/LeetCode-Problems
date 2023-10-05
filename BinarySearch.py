@@ -1,5 +1,5 @@
 ################################################# Binary Search ##########################################################
-########## Time Complexity: O(nlogn) ########## Space Complexity: O(1) #########
+########## Time Complexity: O(logn) ########## Space Complexity: O(1) #########
 
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
