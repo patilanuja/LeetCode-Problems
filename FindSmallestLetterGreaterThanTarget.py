@@ -13,7 +13,6 @@ class Solution:
 
             if ord(letters[mid]) == ord(target):
                 left = mid + 1
-
             
             if ord(letters[mid]) > ord(target):
                 res = letters[mid]
