@@ -1,17 +1,16 @@
+################################################# Two Pointer Approach ##########################################################
+########## Time Complexity: O(n+m) ########## Space Complexity: O(1) ##########
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
 
-
-################################################# Two Pointer Approach ##########################################################
-
-########## Time Complexity: O(n+m) ########## Space Complexity: O(1) ##########
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
-        dummy = ListNode()
-        res = dummy
+        dummy = ListNode() # points to first node
+        res = dummy # traverses the list
 
         while list1 and list2:
             if list1.val < list2.val:
