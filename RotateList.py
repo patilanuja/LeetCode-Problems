@@ -1,6 +1,6 @@
 
 ################################################# Two Pointer Approach ##########################################################
-########## Time Complexity: O(n) ########## Space Complexity: O(1) ##########
+########## Time Complexity: O(2n) ########## Space Complexity: O(1) ##########
 
 # Definition for singly-linked list.
 # class ListNode:
