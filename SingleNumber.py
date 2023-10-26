@@ -39,6 +39,25 @@ class Solution:
             if nums[i] != nums[i+1]:
                 return nums[i]
         return(nums[len(nums) - 1])
+    
+        ## Using XOR (Time complexity: O(n) , Space Complexity: O(1) )
+        final = 0
+        for i in nums:
+            final ^= i
+        return final
+    
+        ## Using two pointer (Time complexity: O(nlon(n)) , Space Complexity: O(1) )
+        prev = None
+        nums = sorted(nums)
+        for  i in range(len(nums)-1):
+            curr = nums[i]
+            nxt = nums[i+1]
+            if curr != prev and curr < nxt:
+                return curr
+            prev = curr
+        return nums[-1]
+     
+
 
 
 
