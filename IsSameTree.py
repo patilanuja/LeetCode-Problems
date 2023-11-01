@@ -35,3 +35,23 @@ class Solution:
                 return False
                 
         return True
+    
+
+################################################# Recursion ##########################################################
+########## Time Complexity: O(n) ########## Space Complexity: O(h = height of the tree) ##########
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+
+class Solution:
+    def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
+
+        if not q and not p: return True
+
+        if p and q and p.val == q.val:
+            return (self.IsSameTree(p.left, q.left) and self.IsSameTree(p.right, q.right))
+        
