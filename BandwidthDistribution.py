@@ -25,7 +25,7 @@ total_bandwidth = 200
 bandwidth = [200, 80, 100] 
 request = [50, 60, 90]
 output = getMaxRequests(bandwidth, request, total_bandwidth)
-print(output)  # Output: 763
+print(output)  #output: 150
 
 
   
