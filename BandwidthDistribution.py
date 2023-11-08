@@ -1,6 +1,5 @@
 # Total bandwidth is total_bandwidth units and there are n API endpoints. The i^th endpoint needs a bandwidth of bandwidth[i] to be functional, and the expected number of requests for the endpoint is request[i]. Given total_bandwidth, bandwidth, and request, find the maximum total number of requests that can be served by optimally allocating bandwidth to different endpoints.
 
-
 # total_bandwidth = 500 bandwidth = [200, 90,350,50,100] request = [270, 142,450,124,189] 
 # Output: 763
  
