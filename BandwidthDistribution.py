@@ -4,8 +4,6 @@
  
 def getMaxRequests(bandwidth, request, total_bandwidth):
     n = len(bandwidth)
-    
-    # Create a list of tuples (bandwidth, request, index) and sort it by request in decreasing order
     endpoints = [(bandwidth[i], request[i], i) for i in range(n)]
     endpoints.sort(key=lambda x: x[1], reverse=True)
     
