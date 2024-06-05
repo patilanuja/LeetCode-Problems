@@ -6,6 +6,7 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/patilanuja/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/patilanuja/LeetCode-Problems/tree/master/0086-partition-list) |
 | [0445-add-two-numbers-ii](https://github.com/patilanuja/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
 # Math
 |  |
@@ -19,3 +20,7 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/patilanuja/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
+# Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/patilanuja/LeetCode-Problems/tree/master/0086-partition-list) |
