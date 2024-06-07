@@ -12,6 +12,7 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/patilanuja/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
+| [0633-sum-of-square-numbers](https://github.com/patilanuja/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 # Stack
 |  |
 | ------- |
@@ -24,3 +25,8 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/patilanuja/LeetCode-Problems/tree/master/0086-partition-list) |
+| [0633-sum-of-square-numbers](https://github.com/patilanuja/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/patilanuja/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
