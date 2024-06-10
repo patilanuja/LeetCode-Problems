@@ -26,6 +26,7 @@ This repository contains my solutions for LeetCode problems.
 | ------- |
 | [0086-partition-list](https://github.com/patilanuja/LeetCode-Problems/tree/master/0086-partition-list) |
 | [0633-sum-of-square-numbers](https://github.com/patilanuja/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
+| [0917-boats-to-save-people](https://github.com/patilanuja/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 # Binary Search
 |  |
 | ------- |
@@ -54,3 +55,15 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [1275-validate-binary-tree-nodes](https://github.com/patilanuja/LeetCode-Problems/tree/master/1275-validate-binary-tree-nodes) |
+# Array
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/patilanuja/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
+# Greedy
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/patilanuja/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
+# Sorting
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/patilanuja/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
