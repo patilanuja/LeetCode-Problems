@@ -27,6 +27,7 @@ This repository contains my solutions for LeetCode problems.
 | [0086-partition-list](https://github.com/patilanuja/LeetCode-Problems/tree/master/0086-partition-list) |
 | [0633-sum-of-square-numbers](https://github.com/patilanuja/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0917-boats-to-save-people](https://github.com/patilanuja/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
+| [0959-3sum-with-multiplicity](https://github.com/patilanuja/LeetCode-Problems/tree/master/0959-3sum-with-multiplicity) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/patilanuja/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 # Binary Search
 |  |
@@ -60,6 +61,7 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/patilanuja/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
+| [0959-3sum-with-multiplicity](https://github.com/patilanuja/LeetCode-Problems/tree/master/0959-3sum-with-multiplicity) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/patilanuja/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 # Greedy
 |  |
@@ -70,4 +72,13 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/patilanuja/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
+| [0959-3sum-with-multiplicity](https://github.com/patilanuja/LeetCode-Problems/tree/master/0959-3sum-with-multiplicity) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/patilanuja/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+# Hash Table
+|  |
+| ------- |
+| [0959-3sum-with-multiplicity](https://github.com/patilanuja/LeetCode-Problems/tree/master/0959-3sum-with-multiplicity) |
+# Counting
+|  |
+| ------- |
+| [0959-3sum-with-multiplicity](https://github.com/patilanuja/LeetCode-Problems/tree/master/0959-3sum-with-multiplicity) |
