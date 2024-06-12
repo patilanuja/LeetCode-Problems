@@ -27,6 +27,7 @@ This repository contains my solutions for LeetCode problems.
 | ------- |
 | [0011-container-with-most-water](https://github.com/patilanuja/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0086-partition-list](https://github.com/patilanuja/LeetCode-Problems/tree/master/0086-partition-list) |
+| [0287-find-the-duplicate-number](https://github.com/patilanuja/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0556-next-greater-element-iii](https://github.com/patilanuja/LeetCode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/patilanuja/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0917-boats-to-save-people](https://github.com/patilanuja/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
@@ -35,6 +36,7 @@ This repository contains my solutions for LeetCode problems.
 # Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/patilanuja/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/patilanuja/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 # Tree
 |  |
@@ -64,6 +66,7 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/patilanuja/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0287-find-the-duplicate-number](https://github.com/patilanuja/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0917-boats-to-save-people](https://github.com/patilanuja/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [0959-3sum-with-multiplicity](https://github.com/patilanuja/LeetCode-Problems/tree/master/0959-3sum-with-multiplicity) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/patilanuja/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -91,3 +94,7 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/patilanuja/LeetCode-Problems/tree/master/0556-next-greater-element-iii) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/patilanuja/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
