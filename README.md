@@ -96,6 +96,7 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/patilanuja/LeetCode-Problems/tree/master/0556-next-greater-element-iii) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/patilanuja/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -103,4 +104,5 @@ This repository contains my solutions for LeetCode problems.
 # Sliding Window
 |  |
 | ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/patilanuja/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patilanuja/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
