@@ -70,6 +70,7 @@ This repository contains my solutions for LeetCode problems.
 | [0917-boats-to-save-people](https://github.com/patilanuja/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [0959-3sum-with-multiplicity](https://github.com/patilanuja/LeetCode-Problems/tree/master/0959-3sum-with-multiplicity) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/patilanuja/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patilanuja/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 # Greedy
 |  |
 | ------- |
@@ -86,6 +87,7 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0959-3sum-with-multiplicity](https://github.com/patilanuja/LeetCode-Problems/tree/master/0959-3sum-with-multiplicity) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patilanuja/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 # Counting
 |  |
 | ------- |
@@ -98,3 +100,7 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/patilanuja/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+# Sliding Window
+|  |
+| ------- |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patilanuja/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
