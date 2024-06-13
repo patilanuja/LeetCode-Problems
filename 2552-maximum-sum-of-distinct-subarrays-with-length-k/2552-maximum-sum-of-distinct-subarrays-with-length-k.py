@@ -1,42 +1,40 @@
 class Solution:
     def maximumSubarraySum(self, nums: List[int], k: int) -> int:
-        
+
         n = len(nums)
+        freq = {}
         max_sum = 0
         sub_sum = 0
 
-        freq = {}
+        for ele in range(k):
 
-        if k > n: return 0
-
-        for i in range(0,k):
-            if nums[i] not in freq:
-                freq[nums[i]] = 1
+            if nums[ele] in freq:
+                freq[nums[ele]] += 1
             else:
-                freq[nums[i]] += 1
+                freq[nums[ele]] = 1
 
-            sub_sum += nums[i]
+            sub_sum += nums[ele] 
 
-        if len(freq) == k:
-            max_sum = max(max_sum, sub_sum)
+        if len(freq) ==  k:
+            max_sum = sub_sum
 
-        for i in range(k,n):
-            
-            sub_sum -= nums[i-k]
+        for ele in range(k, n):
+            sub_sum -= nums[ele-k]
 
-            if freq[nums[i-k]] == 1:
-                freq.pop(nums[i-k])
+            if freq[nums[ele-k]] == 1:
+                freq.pop(nums[ele-k])
             else:
-                freq[nums[i-k]] -= 1
+                freq[nums[ele-k]] -= 1
 
-            sub_sum += nums[i]
+            sub_sum += nums[ele]
 
-            if nums[i] not in freq:
-                freq[nums[i]] = 1
+            if nums[ele] in freq:
+                freq[nums[ele]] += 1
             else:
-                freq[nums[i]] += 1
+                freq[nums[ele]] = 1
 
             if len(freq) == k:
                 max_sum = max(max_sum, sub_sum)
 
         return max_sum
+            
