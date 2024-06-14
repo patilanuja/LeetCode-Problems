@@ -17,6 +17,7 @@ This repository contains my solutions for LeetCode problems.
 # Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/patilanuja/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
 # Recursion
@@ -42,11 +43,13 @@ This repository contains my solutions for LeetCode problems.
 # Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [1275-validate-binary-tree-nodes](https://github.com/patilanuja/LeetCode-Problems/tree/master/1275-validate-binary-tree-nodes) |
 # Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [1275-validate-binary-tree-nodes](https://github.com/patilanuja/LeetCode-Problems/tree/master/1275-validate-binary-tree-nodes) |
 # Breadth-First Search
@@ -64,6 +67,7 @@ This repository contains my solutions for LeetCode problems.
 # Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [1275-validate-binary-tree-nodes](https://github.com/patilanuja/LeetCode-Problems/tree/master/1275-validate-binary-tree-nodes) |
 # Array
