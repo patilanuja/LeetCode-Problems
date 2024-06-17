@@ -20,6 +20,7 @@ This repository contains my solutions for LeetCode problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/patilanuja/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/patilanuja/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/patilanuja/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 # Recursion
@@ -127,4 +128,5 @@ This repository contains my solutions for LeetCode problems.
 # Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/patilanuja/LeetCode-Problems/tree/master/0155-min-stack) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/patilanuja/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
