@@ -21,6 +21,7 @@ This repository contains my solutions for LeetCode problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/patilanuja/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/patilanuja/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 # Recursion
 |  |
 | ------- |
@@ -81,6 +82,7 @@ This repository contains my solutions for LeetCode problems.
 | [0287-find-the-duplicate-number](https://github.com/patilanuja/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0917-boats-to-save-people](https://github.com/patilanuja/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [0959-3sum-with-multiplicity](https://github.com/patilanuja/LeetCode-Problems/tree/master/0959-3sum-with-multiplicity) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/patilanuja/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/patilanuja/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patilanuja/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 # Greedy
@@ -122,3 +124,7 @@ This repository contains my solutions for LeetCode problems.
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/patilanuja/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/patilanuja/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patilanuja/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+# Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/patilanuja/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
