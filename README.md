@@ -17,6 +17,7 @@ This repository contains my solutions for LeetCode problems.
 # Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/patilanuja/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -112,6 +113,7 @@ This repository contains my solutions for LeetCode problems.
 # String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/patilanuja/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0556-next-greater-element-iii](https://github.com/patilanuja/LeetCode-Problems/tree/master/0556-next-greater-element-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/patilanuja/LeetCode-Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/patilanuja/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
