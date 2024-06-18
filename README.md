@@ -23,6 +23,7 @@ This repository contains my solutions for LeetCode problems.
 | [0145-binary-tree-postorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/patilanuja/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/patilanuja/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/patilanuja/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/patilanuja/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 # Recursion
 |  |
@@ -82,6 +83,7 @@ This repository contains my solutions for LeetCode problems.
 | ------- |
 | [0011-container-with-most-water](https://github.com/patilanuja/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0287-find-the-duplicate-number](https://github.com/patilanuja/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/patilanuja/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0917-boats-to-save-people](https://github.com/patilanuja/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [0959-3sum-with-multiplicity](https://github.com/patilanuja/LeetCode-Problems/tree/master/0959-3sum-with-multiplicity) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/patilanuja/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -102,6 +104,7 @@ This repository contains my solutions for LeetCode problems.
 # Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/patilanuja/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0959-3sum-with-multiplicity](https://github.com/patilanuja/LeetCode-Problems/tree/master/0959-3sum-with-multiplicity) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/patilanuja/LeetCode-Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patilanuja/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -132,3 +135,7 @@ This repository contains my solutions for LeetCode problems.
 | ------- |
 | [0155-min-stack](https://github.com/patilanuja/LeetCode-Problems/tree/master/0155-min-stack) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/patilanuja/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/patilanuja/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
