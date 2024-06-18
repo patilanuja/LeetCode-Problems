@@ -24,6 +24,7 @@ This repository contains my solutions for LeetCode problems.
 | [0155-min-stack](https://github.com/patilanuja/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/patilanuja/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/patilanuja/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/patilanuja/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/patilanuja/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 # Recursion
 |  |
@@ -84,6 +85,7 @@ This repository contains my solutions for LeetCode problems.
 | [0011-container-with-most-water](https://github.com/patilanuja/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0287-find-the-duplicate-number](https://github.com/patilanuja/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/patilanuja/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/patilanuja/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0917-boats-to-save-people](https://github.com/patilanuja/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [0959-3sum-with-multiplicity](https://github.com/patilanuja/LeetCode-Problems/tree/master/0959-3sum-with-multiplicity) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/patilanuja/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -139,3 +141,4 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/patilanuja/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/patilanuja/LeetCode-Problems/tree/master/0739-daily-temperatures) |
