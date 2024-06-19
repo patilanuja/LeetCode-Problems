@@ -23,6 +23,7 @@ This repository contains my solutions for LeetCode problems.
 | [0145-binary-tree-postorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/patilanuja/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/patilanuja/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/patilanuja/LeetCode-Problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/patilanuja/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/patilanuja/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/patilanuja/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -45,6 +46,7 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/patilanuja/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0456-132-pattern](https://github.com/patilanuja/LeetCode-Problems/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/patilanuja/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 # Tree
 |  |
@@ -84,6 +86,7 @@ This repository contains my solutions for LeetCode problems.
 | ------- |
 | [0011-container-with-most-water](https://github.com/patilanuja/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0287-find-the-duplicate-number](https://github.com/patilanuja/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0456-132-pattern](https://github.com/patilanuja/LeetCode-Problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/patilanuja/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/patilanuja/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0917-boats-to-save-people](https://github.com/patilanuja/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
@@ -140,5 +143,10 @@ This repository contains my solutions for LeetCode problems.
 # Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/patilanuja/LeetCode-Problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/patilanuja/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/patilanuja/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+# Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/patilanuja/LeetCode-Problems/tree/master/0456-132-pattern) |
