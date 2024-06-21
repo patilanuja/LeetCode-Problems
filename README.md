@@ -93,6 +93,7 @@ This repository contains my solutions for LeetCode problems.
 | [0739-daily-temperatures](https://github.com/patilanuja/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0917-boats-to-save-people](https://github.com/patilanuja/LeetCode-Problems/tree/master/0917-boats-to-save-people) |
 | [0959-3sum-with-multiplicity](https://github.com/patilanuja/LeetCode-Problems/tree/master/0959-3sum-with-multiplicity) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/patilanuja/LeetCode-Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/patilanuja/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/patilanuja/LeetCode-Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patilanuja/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
