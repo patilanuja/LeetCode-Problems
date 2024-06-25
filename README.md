@@ -157,3 +157,7 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/patilanuja/LeetCode-Problems/tree/master/0456-132-pattern) |
+# Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/patilanuja/LeetCode-Problems/tree/master/0052-n-queens-ii) |
