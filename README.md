@@ -8,6 +8,7 @@ This repository contains my solutions for LeetCode problems.
 | [0024-swap-nodes-in-pairs](https://github.com/patilanuja/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/patilanuja/LeetCode-Problems/tree/master/0086-partition-list) |
 | [0445-add-two-numbers-ii](https://github.com/patilanuja/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/patilanuja/LeetCode-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 # Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@ This repository contains my solutions for LeetCode problems.
 | [0496-next-greater-element-i](https://github.com/patilanuja/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/patilanuja/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/patilanuja/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/patilanuja/LeetCode-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/patilanuja/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 # Recursion
 |  |
@@ -57,6 +59,7 @@ This repository contains my solutions for LeetCode problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/patilanuja/LeetCode-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1275-validate-binary-tree-nodes](https://github.com/patilanuja/LeetCode-Problems/tree/master/1275-validate-binary-tree-nodes) |
 # Depth-First Search
 |  |
@@ -64,6 +67,7 @@ This repository contains my solutions for LeetCode problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/patilanuja/LeetCode-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1275-validate-binary-tree-nodes](https://github.com/patilanuja/LeetCode-Problems/tree/master/1275-validate-binary-tree-nodes) |
 # Breadth-First Search
 |  |
@@ -83,6 +87,7 @@ This repository contains my solutions for LeetCode problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/patilanuja/LeetCode-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [1275-validate-binary-tree-nodes](https://github.com/patilanuja/LeetCode-Problems/tree/master/1275-validate-binary-tree-nodes) |
 # Array
 |  |
@@ -161,3 +166,11 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/patilanuja/LeetCode-Problems/tree/master/0052-n-queens-ii) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/patilanuja/LeetCode-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+# Doubly-Linked List
+|  |
+| ------- |
+| [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/patilanuja/LeetCode-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
