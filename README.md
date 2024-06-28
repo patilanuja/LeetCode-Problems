@@ -93,6 +93,7 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/patilanuja/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/patilanuja/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/patilanuja/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/patilanuja/LeetCode-Problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/patilanuja/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
@@ -169,6 +170,7 @@ This repository contains my solutions for LeetCode problems.
 # Binary Search Tree
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/patilanuja/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/patilanuja/LeetCode-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 # Doubly-Linked List
 |  |
