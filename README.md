@@ -176,3 +176,22 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/patilanuja/LeetCode-Problems/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+|  |
+| ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/patilanuja/LeetCode-Problems/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/patilanuja/LeetCode-Problems/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+## Union Find
+|  |
+| ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/patilanuja/LeetCode-Problems/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+## Graph
+|  |
+| ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/patilanuja/LeetCode-Problems/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+<!---LeetCode Topics End-->
