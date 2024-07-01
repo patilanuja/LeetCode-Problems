@@ -182,12 +182,14 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/patilanuja/LeetCode-Problems/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0813-all-paths-from-source-to-target](https://github.com/patilanuja/LeetCode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [1308-smallest-string-with-swaps](https://github.com/patilanuja/LeetCode-Problems/tree/master/1308-smallest-string-with-swaps) |
 | [2121-find-if-path-exists-in-graph](https://github.com/patilanuja/LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/patilanuja/LeetCode-Problems/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0813-all-paths-from-source-to-target](https://github.com/patilanuja/LeetCode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [1308-smallest-string-with-swaps](https://github.com/patilanuja/LeetCode-Problems/tree/master/1308-smallest-string-with-swaps) |
 | [2121-find-if-path-exists-in-graph](https://github.com/patilanuja/LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
@@ -200,6 +202,7 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/patilanuja/LeetCode-Problems/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0813-all-paths-from-source-to-target](https://github.com/patilanuja/LeetCode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/patilanuja/LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Array
 |  |
@@ -217,4 +220,8 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [1308-smallest-string-with-swaps](https://github.com/patilanuja/LeetCode-Problems/tree/master/1308-smallest-string-with-swaps) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/patilanuja/LeetCode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
