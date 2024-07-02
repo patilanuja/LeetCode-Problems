@@ -192,6 +192,7 @@ This repository contains my solutions for LeetCode problems.
 | [0133-clone-graph](https://github.com/patilanuja/LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/patilanuja/LeetCode-Problems/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0813-all-paths-from-source-to-target](https://github.com/patilanuja/LeetCode-Problems/tree/master/0813-all-paths-from-source-to-target) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/patilanuja/LeetCode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1308-smallest-string-with-swaps](https://github.com/patilanuja/LeetCode-Problems/tree/master/1308-smallest-string-with-swaps) |
 | [2121-find-if-path-exists-in-graph](https://github.com/patilanuja/LeetCode-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
@@ -210,6 +211,7 @@ This repository contains my solutions for LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/patilanuja/LeetCode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1308-smallest-string-with-swaps](https://github.com/patilanuja/LeetCode-Problems/tree/master/1308-smallest-string-with-swaps) |
 ## Hash Table
 |  |
@@ -228,4 +230,8 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/patilanuja/LeetCode-Problems/tree/master/0813-all-paths-from-source-to-target) |
+## Matrix
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/patilanuja/LeetCode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
