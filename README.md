@@ -239,4 +239,16 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/patilanuja/LeetCode-Problems/tree/master/0764-n-ary-tree-level-order-traversal) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/patilanuja/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/patilanuja/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/patilanuja/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
