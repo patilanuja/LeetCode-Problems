@@ -222,6 +222,7 @@ This repository contains my solutions for LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/patilanuja/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [1308-smallest-string-with-swaps](https://github.com/patilanuja/LeetCode-Problems/tree/master/1308-smallest-string-with-swaps) |
 ## Sorting
 |  |
@@ -251,4 +252,12 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/patilanuja/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/patilanuja/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/patilanuja/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
