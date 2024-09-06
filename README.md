@@ -218,6 +218,7 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/patilanuja/LeetCode-Problems/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/patilanuja/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [1308-smallest-string-with-swaps](https://github.com/patilanuja/LeetCode-Problems/tree/master/1308-smallest-string-with-swaps) |
 ## String
 |  |
@@ -247,6 +248,7 @@ This repository contains my solutions for LeetCode problems.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/patilanuja/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/patilanuja/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
@@ -260,4 +262,12 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/patilanuja/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/patilanuja/LeetCode-Problems/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/patilanuja/LeetCode-Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
