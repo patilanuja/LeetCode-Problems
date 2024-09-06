@@ -214,12 +214,14 @@ This repository contains my solutions for LeetCode problems.
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/patilanuja/LeetCode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1308-smallest-string-with-swaps](https://github.com/patilanuja/LeetCode-Problems/tree/master/1308-smallest-string-with-swaps) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patilanuja/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/patilanuja/LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/patilanuja/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [1308-smallest-string-with-swaps](https://github.com/patilanuja/LeetCode-Problems/tree/master/1308-smallest-string-with-swaps) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patilanuja/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -270,4 +272,8 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/patilanuja/LeetCode-Problems/tree/master/0146-lru-cache) |
+## Sliding Window
+|  |
+| ------- |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patilanuja/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
