@@ -212,6 +212,7 @@ This repository contains my solutions for LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/patilanuja/LeetCode-Problems/tree/master/0079-word-search) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/patilanuja/LeetCode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1308-smallest-string-with-swaps](https://github.com/patilanuja/LeetCode-Problems/tree/master/1308-smallest-string-with-swaps) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patilanuja/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -226,6 +227,7 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/patilanuja/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0079-word-search](https://github.com/patilanuja/LeetCode-Problems/tree/master/0079-word-search) |
 | [1308-smallest-string-with-swaps](https://github.com/patilanuja/LeetCode-Problems/tree/master/1308-smallest-string-with-swaps) |
 ## Sorting
 |  |
@@ -234,10 +236,12 @@ This repository contains my solutions for LeetCode problems.
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/patilanuja/LeetCode-Problems/tree/master/0079-word-search) |
 | [0813-all-paths-from-source-to-target](https://github.com/patilanuja/LeetCode-Problems/tree/master/0813-all-paths-from-source-to-target) |
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/patilanuja/LeetCode-Problems/tree/master/0079-word-search) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/patilanuja/LeetCode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Tree
 |  |
