@@ -213,6 +213,7 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/patilanuja/LeetCode-Problems/tree/master/0079-word-search) |
+| [0503-next-greater-element-ii](https://github.com/patilanuja/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/patilanuja/LeetCode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1308-smallest-string-with-swaps](https://github.com/patilanuja/LeetCode-Problems/tree/master/1308-smallest-string-with-swaps) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patilanuja/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -251,6 +252,7 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/patilanuja/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/patilanuja/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -280,4 +282,8 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patilanuja/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/patilanuja/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
