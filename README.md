@@ -229,6 +229,7 @@ This repository contains my solutions for LeetCode problems.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/patilanuja/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/patilanuja/LeetCode-Problems/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/patilanuja/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [1252-break-a-palindrome](https://github.com/patilanuja/LeetCode-Problems/tree/master/1252-break-a-palindrome) |
 | [1308-smallest-string-with-swaps](https://github.com/patilanuja/LeetCode-Problems/tree/master/1308-smallest-string-with-swaps) |
 ## Sorting
@@ -271,6 +272,7 @@ This repository contains my solutions for LeetCode problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/patilanuja/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/patilanuja/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 ## Linked List
 |  |
 | ------- |
